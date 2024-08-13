@@ -268,7 +268,7 @@ font-weight: 400;
   display: none;
 }
 
-/* responsive media */
+/* Responsive media */
 @media screen and (max-width:576px) {
 
  .topbar {
