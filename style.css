@@ -327,7 +327,7 @@ font-weight: 400;
 
 
 
-/* Large device */
+/* Large Device */
 @media screen and (min-width:576px) and (max-width:992px) {
   .about-container {
       flex-direction: column;
